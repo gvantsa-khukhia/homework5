@@ -80,3 +80,89 @@ h3{
     padding: 0px 289px 0px 371px;
     
 }
+
+.section1{
+    background-color: #C2F3EE;
+}
+
+.section1div{
+    width: 486px;
+    height: 538px;
+    vertical-align: top;
+    padding-top: 80px;
+    
+}
+
+.sectionimg{
+    vertical-align: top;
+    padding-top: 80px;
+    padding-left: 130px;
+    padding-bottom: 80px;
+    margin-right: 100px;
+}
+
+h4{
+    color: #272727;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+}
+
+.text1{
+    color: #515151;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 27px;
+    margin-bottom: 45px;
+   
+    
+}
+
+button{
+    background-color: #2A9D8F;
+}
+
+.buttontext{
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    padding: 11px 16px;
+}
+
+h5{
+    color: #4D4D4D;
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    padding: 200px 435px 0px 490px;
+    margin-bottom: 54px;
+
+}
+
+.section2text1{
+    color: #535353;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 400px;
+    margin-top: 32px;
+}
+
+.section2text2{
+    color: #535353;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 400px;
+    margin-top: 32px;
+}
+
+.section2div1{
+    padding: 0px 0px 200px 30px;
+}
+
+.section2div2{
+    padding-right: 130px;
+    padding-bottom: 200px;
+    margin-left: 20px;
+}
