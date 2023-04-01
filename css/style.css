@@ -1,0 +1,82 @@
+.logo1{
+    background-color: white;
+    padding: 10px;
+    margin-left: 130px;
+    margin-top: 38px;
+    vertical-align: middle;
+}
+
+header{
+    background-color: #2A9D8F;
+    width: 1440px;
+    height: 122px;
+    
+}
+
+.inline_block{
+    display: inline-block;
+}
+
+.headertext{
+    color: #FFFFFF;
+    vertical-align: middle;
+    margin-top: 46px;
+    font-family: 'Nerko One', cursive;
+}
+
+.headertext1{
+    margin-left: 357px;
+}
+
+.headertext2{
+    margin-left: 51px;
+    margin-right: 51px;
+}
+
+.headertext3{
+    margin-right: 357px;
+}
+
+h2{
+    color: #2A9D8F;
+    background-color: #FFFFFF
+    ;
+    padding: 8px 16px;
+    margin-right: 130px;
+    vertical-align: middle;
+    margin-top: 38px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3{
+    color: #4D4D4D;
+    font-family: poppins;
+    font-size: 48px;
+    font-weight: 500;
+    padding: 322px 507px 0px 590px;
+}
+    
+
+    
+    
+
+.articletext1{
+    margin-top: 60px;
+    margin-bottom: 52px;
+}
+
+.articletext2{
+    margin-bottom: 200px;
+}
+
+.articletext{
+    color: #656565;
+    font-family: 'Nerko One', cursive;
+    width: 780px;
+    height: 90px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 0px 289px 0px 371px;
+    
+}
