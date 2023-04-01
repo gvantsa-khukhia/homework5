@@ -55,7 +55,8 @@ h3{
     font-family: poppins;
     font-size: 48px;
     font-weight: 500;
-    padding: 322px 507px 0px 590px;
+    text-align: center;
+    padding-top: 322px; 
 }
     
 
@@ -139,7 +140,8 @@ h5{
     font-family: 'Poppins', sans-serif;
     font-size: 48px;
     font-weight: 500;
-    padding: 200px 435px 0px 490px;
+    text-align: center;
+    padding-top: 200px;
     margin-bottom: 54px;
 
 }
