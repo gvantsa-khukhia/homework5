@@ -10,6 +10,7 @@ header{
     background-color: #2A9D8F;
     width: 1440px;
     height: 122px;
+    margin: 0 auto;
     
 }
 
@@ -22,6 +23,7 @@ header{
     vertical-align: middle;
     margin-top: 46px;
     font-family: 'Nerko One', cursive;
+    
 }
 
 .headertext1{
@@ -123,6 +125,7 @@ h4{
 
 button{
     background-color: #2A9D8F;
+    border: none;
 }
 
 .buttontext{
@@ -141,6 +144,8 @@ h5{
 
 }
 
+
+
 .section2text1{
     color: #535353;
     font-family: 'Poppins', sans-serif;
@@ -157,6 +162,7 @@ h5{
     margin-top: 32px;
 }
 
+
 .section2div1{
     padding: 0px 0px 200px 30px;
 }
@@ -165,4 +171,51 @@ h5{
     padding-right: 130px;
     padding-bottom: 200px;
     margin-left: 20px;
+}
+
+footer{
+    background-color: #2A9D8F;
+}
+
+.footerimg{
+    padding: 111.3px 0 220.32px 157.72px;
+    vertical-align: top;
+    margin-right: 661.64px;
+}
+
+.footerdiv{
+    padding-top: 90px;
+    vertical-align: top;
+
+}
+a{
+    text-decoration: none;
+   
+}
+
+li{
+    color: #FFFFFF;
+}
+
+.footermaintxt{
+    color: #FFFFFF;
+   text-decoration: none;
+   font-family: 'Poppins', sans-serif;
+   font-size: 20px;
+   margin-bottom: 21px;
+}  
+
+.footertxt{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px; 
+}
+
+.footerdiv2{
+    margin-left: 40px;
+    margin-right: 41px;
+}
+
+.footertxt2{
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
